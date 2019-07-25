@@ -1,0 +1,28 @@
+/*
+ Theme Name:   WMFR-2017
+ Theme URI:    https://github.com/wikimedia-france/wmfr-2017
+ Description:  Accesspress Pro Child Theme
+ Author:       Sylvain Boissel (https://github.com/Ash-Crow) & Sarah Krichen
+ Author URI:   https://wikimedia.fr
+ Template:     accesspress-pro
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Domain Path: /languages/
+ Tags: blue, white, light, custom-menu, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, custom-background, featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, full-width-template, custom-header, flexible-header, responsive-layout
+
+*/
+
+html, body, div{
+    text-align: justify;
+}
+
+#bottom-footer {
+    display: none;
+}
+
+th {
+    background-color: #006699;
+    color: white;
+    font-size: 120%;
